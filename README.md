@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jotagectti
-- 👀 I’m interested in having a life I can be proud of and explore the end of the world while I am around
+- 👀 I’m interested in exploring the end of the universe
 - 🌱 I’m currently learning Energy Systems, AI, Web & Game Dev, Cloud, Docker/Kubernetes, English, German, Chinese, Architecture, etc. and the list goes on...
 - 💞️ I’m looking to collaborate on everything related to what I am interested(extra points if its for a better good like SDGs).
 - 📫 How to reach me feel free to reach me at carpanetti@naver.com
